@@ -10,15 +10,15 @@
     <TextView
         android:layout_width="266dp"
         android:layout_height="99dp"
+        android:layout_marginEnd="88dp"
         android:text="IT19209012"
         android:textColor="#1FB825"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.149"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.323" />
+        app:layout_constraintVertical_bias="0.329" />
 
     <TextView
         android:id="@+id/textView"
